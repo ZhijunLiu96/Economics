@@ -11,4 +11,4 @@
 3. [Stock and investment](https://github.com/ZhijunLiu96/Economics/blob/master/StockPriceAnalysis.pdf)
 
 4. Book others give me
-- [Statistical Computing with R](https://github.com/ZhijunLiu96/Economics/blob/master/Statistical%20Computing%20with%20R%20.pdf)
+- [Statistical Computing with R](https://github.com/ZhijunLiu96/Economics/blob/master/Statistical%20Computing%20with%20R.pdf)
